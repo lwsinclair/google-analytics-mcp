@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/googleanalytics-google-analytics-mcp-badge.png)](https://mseep.ai/app/googleanalytics-google-analytics-mcp)
+
 <p align="center">
   <img src="logo.png" alt="Google Analytics MCP Logo" width="120" />
 
